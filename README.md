@@ -1,5 +1,10 @@
 # Responsive-food-website
-###Welcome! 👋
+![](./assets/image.png)
+
+<p>
+   <h2>Welcome! 👋</h2>
+</p>
+
 Thanks for checking out this single page responsive food website.
 
 ### Usage
