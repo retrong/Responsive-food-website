@@ -24,4 +24,4 @@ Users should be able to:
 - JavaScript
 
 ## Author
-GitHub - retroNG
+GitHub - [retroNG](https://github.com/retrong)
