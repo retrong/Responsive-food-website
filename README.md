@@ -7,15 +7,16 @@ Users should be able to:
 
 - Expereience smooth scrolling
 - Hover:
-    Buttons
-    Images
-    Navbar
+   - Buttons
+   - Images
+   - Navbar
 
-### Built with
--HTML
--CSS Flexbox
--CSS Grid
--JavaScript
+### Built with:
+
+- HTML
+- CSS Flexbox
+- CSS Grid
+- JavaScript
 
 ## Author
 GitHub - retroNG
